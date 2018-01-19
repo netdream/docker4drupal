@@ -1,3 +1,6 @@
 .idea/
 .docker-sync/
+
+# Skip codebase (separate repo) and persistent volumes (DB etc.)
 codebase
+persistent
